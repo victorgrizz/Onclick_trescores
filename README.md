@@ -1,4 +1,4 @@
 # Onclick_trescores
-Pincel com tres cores, onclik
+Pincel com tres cores, onclick
 - cores : azul, vermelho, verde
-Click com botao direito do mouse para mudar a cor do pincel
+- Click com botao direito do mouse para mudar a cor do pincel
